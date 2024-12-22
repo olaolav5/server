@@ -109,3 +109,32 @@
 [03:14:23] [Server thread/INFO]: alrio2112 was killed
 [03:14:23] [Server thread/INFO]: [alrio2112: Killed alrio2112]
 [03:14:41] [Server thread/INFO]: alrio2112 has reached the goal [Sky's the Limit]
+[03:14:46] [Server thread/INFO]: alrio2112 issued server command: /gamemode survival
+[03:14:46] [Server thread/INFO]: [alrio2112: Set own game mode to Survival Mode]
+[03:16:18] [Server thread/INFO]: alrio2112 has made the advancement [Ice Bucket Challenge]
+[03:17:00] [Server thread/INFO]: joseferav342 has made the advancement [Getting an Upgrade]
+[03:17:11] [Server thread/INFO]: alrio2112 experienced kinetic energy
+[03:17:45] [Server thread/INFO]: alrio2112 issued server command: /tp joseferav342 Probablemente5v2
+[03:17:45] [Server thread/INFO]: [alrio2112: Teleported joseferav342 to Probablemente5v2]
+[03:18:19] [User Authenticator #2/INFO]: UUID of player epico9 is d3ef3ba6-0dd7-3c78-8f6a-6b2d059134bb
+[03:18:20] [Server thread/INFO]: epico9 joined the game
+[03:18:20] [Server thread/INFO]: epico9[/127.45.254.223:58839] logged in with entity id 33263 at ([world]67.14783162706878, 74.0, -9.300000011920929)
+[03:18:30] [Server thread/INFO]: DavZerok has made the advancement [Monster Hunter]
+[03:18:32] [Server thread/INFO]: alrio2112 issued server command: /tp epico9 d
+[03:18:34] [Server thread/INFO]: alrio2112 issued server command: /tp epico9 DavZerok
+[03:18:34] [Server thread/INFO]: [alrio2112: Teleported epico9 to DavZerok]
+[03:18:37] [Server thread/INFO]: epico9 has made the advancement [Monster Hunter]
+[03:18:42] [Server thread/INFO]: alrio2112 issued server command: /gamemode creative
+[03:18:42] [Server thread/INFO]: [alrio2112: Set own game mode to Creative Mode]
+[03:19:00] [Server thread/INFO]: alrio2112 issued server command: /gamemode survival
+[03:19:00] [Server thread/INFO]: [alrio2112: Set own game mode to Survival Mode]
+[03:20:20] [Server thread/INFO]: joseferav342 was slain by Zombie
+[03:20:47] [Server thread/INFO]: alrio2112 issued server command: /tp joseferav342 Probablemente5v2
+[03:20:47] [Server thread/INFO]: [alrio2112: Teleported joseferav342 to Probablemente5v2]
+[03:21:48] [Server thread/INFO]: epico9 was blown up by Creeper
+[03:22:17] [Server thread/INFO]: epico9 lost connection: Disconnected
+[03:22:17] [Server thread/INFO]: epico9 left the game
+[03:22:51] [Server thread/INFO]: alrio2112 issued server command: /tp @s -1248 ~ 800
+[03:22:51] [Server thread/INFO]: [alrio2112: Teleported alrio2112 to -1247.500000, 91.191635, 800.500000]
+[03:23:11] [Server thread/INFO]: alrio2112 fell from a high place
+[03:23:36] [Server thread/INFO]: alrio2112 was slain by Zombie
