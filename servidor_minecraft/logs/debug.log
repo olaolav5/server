@@ -2814,3 +2814,58 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 13
 [22Dec2024 01:02:14.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alrio2112 fell out of the world
 [22Dec2024 01:03:55.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v3.2.0
 [22Dec2024 01:03:55.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v3.2.0
+[22Dec2024 01:08:55.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v3.2.0
+[22Dec2024 01:08:55.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v3.2.0
+[22Dec2024 01:13:55.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v3.2.0
+[22Dec2024 01:13:55.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v3.2.0
+[22Dec2024 01:14:37.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alrio2112 lost connection: Disconnected
+[22Dec2024 01:14:37.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alrio2112 left the game
+[22Dec2024 01:15:13.507] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 01:15:13.507] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 01:15:13.507] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 01:15:13.507] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[22Dec2024 01:15:13.507] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@439badf5 into net.minecraft.network.Connection@26a1698d
+[22Dec2024 01:15:14.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alrio2112[/127.18.0.67:38713] logged in with entity id 25 at (-0.21839885784364088, 61.0, 0.7535249851923692)
+[22Dec2024 01:15:14.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alrio2112 joined the game
+[22Dec2024 01:15:49.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alrio2112 has made the advancement [Step 1]
+[22Dec2024 01:17:39.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made alrio2112 a server operator
+[22Dec2024 01:18:55.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v3.2.0
+[22Dec2024 01:18:55.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v3.2.0
+[22Dec2024 01:19:10.302] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 01:19:10.302] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 01:19:10.302] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 01:19:10.303] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[22Dec2024 01:19:10.303] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@5633c506 into net.minecraft.network.Connection@74f92884
+[22Dec2024 01:19:11.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: javipro[/127.15.80.211:39961] logged in with entity id 65 at (0.5, 61.0, -0.5)
+[22Dec2024 01:19:11.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro joined the game
+[22Dec2024 01:19:11.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro has completed the challenge [Tips & Tricks]
+[22Dec2024 01:19:11.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro has reached the goal [Welcome to OneBlock]
+[22Dec2024 01:19:19.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alrio2112: Gamerule keepInventory is now set to: true]
+[22Dec2024 01:19:35.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro has made the advancement [Into the Darkness]
+[22Dec2024 01:19:39.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro fell out of the world
+[22Dec2024 01:19:51.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro fell out of the world
+[22Dec2024 01:20:07.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro has completed the challenge [Progress]
+[22Dec2024 01:20:07.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro has made the advancement [Step 1]
+[22Dec2024 01:20:11.776] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 01:20:11.777] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 01:20:11.777] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 01:20:11.777] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[22Dec2024 01:20:11.777] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@2cd43658 into net.minecraft.network.Connection@7ed0af6a
+[22Dec2024 01:20:14.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Probablemente5v2[/127.19.26.53:46851] logged in with entity id 70 at (0.5, 61.0, 0.5)
+[22Dec2024 01:20:14.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Probablemente5v2 joined the game
+[22Dec2024 01:20:14.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Probablemente5v2 has completed the challenge [Tips & Tricks]
+[22Dec2024 01:20:14.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Probablemente5v2 has reached the goal [Welcome to OneBlock]
+[22Dec2024 01:20:21.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Probablemente5v2 has made the advancement [Into the Darkness]
+[22Dec2024 01:20:24.715] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 01:20:24.715] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 01:20:24.715] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[22Dec2024 01:20:24.715] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[22Dec2024 01:20:24.715] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@77933fa2 into net.minecraft.network.Connection@48b5b435
+[22Dec2024 01:20:25.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Probablemente5v2 fell out of the world
+[22Dec2024 01:20:26.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joseferav342[/127.166.162.115:49697] logged in with entity id 71 at (0.5, 61.0, 2.5)
+[22Dec2024 01:20:26.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joseferav342 joined the game
+[22Dec2024 01:20:26.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joseferav342 has completed the challenge [Tips & Tricks]
+[22Dec2024 01:20:26.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joseferav342 has reached the goal [Welcome to OneBlock]
+[22Dec2024 01:20:33.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro fell out of the world
+[22Dec2024 01:20:37.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alrio2112 fell out of the world
+[22Dec2024 01:20:38.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=60, z=-2}

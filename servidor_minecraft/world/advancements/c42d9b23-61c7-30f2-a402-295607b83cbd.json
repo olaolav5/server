@@ -7757,5 +7757,17 @@
     },
     "done": true
   },
+  "obs:phases/phase_1": {
+    "criteria": {
+      "requirement": "2024-12-22 01:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-22 01:16:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
