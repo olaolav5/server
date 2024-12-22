@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-22 03:27:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-22 03:17:06 +0000"
@@ -364,8 +370,10 @@
       "minecraft:beach": "2024-12-22 03:14:00 +0000",
       "minecraft:forest": "2024-12-22 03:05:58 +0000",
       "minecraft:sparse_jungle": "2024-12-22 03:20:48 +0000",
+      "minecraft:ocean": "2024-12-22 03:29:13 +0000",
       "minecraft:jungle": "2024-12-22 03:19:38 +0000",
       "minecraft:river": "2024-12-22 03:14:03 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-22 03:29:14 +0000",
       "minecraft:swamp": "2024-12-22 03:07:04 +0000",
       "minecraft:birch_forest": "2024-12-22 03:18:00 +0000",
       "minecraft:windswept_hills": "2024-12-22 03:11:54 +0000",

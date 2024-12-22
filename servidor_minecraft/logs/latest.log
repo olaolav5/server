@@ -138,3 +138,23 @@
 [03:22:51] [Server thread/INFO]: [alrio2112: Teleported alrio2112 to -1247.500000, 91.191635, 800.500000]
 [03:23:11] [Server thread/INFO]: alrio2112 fell from a high place
 [03:23:36] [Server thread/INFO]: alrio2112 was slain by Zombie
+[03:31:04] [Async Chat Thread - #3/INFO]: [Not Secure] <alrio2112> v/execute in minecraft:overworld run tp @s -1276.33 -10.00 831.25 704.19 12.19
+[03:31:09] [Server thread/INFO]: alrio2112 issued server command: /execute in minecraft:overworld run tp @s -1276.33 -10.00 831.25 704.19 12.19
+[03:31:09] [Server thread/INFO]: [alrio2112: Teleported alrio2112 to -1276.330000, -10.000000, 831.250000]
+[03:31:14] [Server thread/INFO]: alrio2112 issued server command: /gamemode spectator
+[03:31:14] [Server thread/INFO]: [alrio2112: Set own game mode to Spectator Mode]
+[03:31:32] [Server thread/INFO]: alrio2112 issued server command: /gamemode survival
+[03:31:32] [Server thread/INFO]: [alrio2112: Set own game mode to Survival Mode]
+[03:32:11] [Server thread/INFO]: alrio2112 lost connection: Disconnected
+[03:32:11] [Server thread/INFO]: alrio2112 left the game
+[03:32:31] [Server thread/INFO]: joseferav342 lost connection: Disconnected
+[03:32:31] [Server thread/INFO]: joseferav342 left the game
+[03:33:52] [User Authenticator #3/INFO]: UUID of player epico9 is d3ef3ba6-0dd7-3c78-8f6a-6b2d059134bb
+[03:33:54] [Server thread/INFO]: epico9 joined the game
+[03:33:54] [Server thread/INFO]: epico9[/127.45.254.223:49273] logged in with entity id 50267 at ([world]-9.976889005304352, 81.0, -28.69999998807907)
+[03:34:22] [Server thread/INFO]: Probablemente5v2 lost connection: Disconnected
+[03:34:22] [Server thread/INFO]: Probablemente5v2 left the game
+[03:34:24] [Server thread/INFO]: epico9 lost connection: Disconnected
+[03:34:24] [Server thread/INFO]: epico9 left the game
+[03:35:00] [Server thread/INFO]: DavZerok lost connection: Disconnected
+[03:35:00] [Server thread/INFO]: DavZerok left the game
