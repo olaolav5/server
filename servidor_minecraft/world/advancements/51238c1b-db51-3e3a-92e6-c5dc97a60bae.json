@@ -3259,6 +3259,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-22 02:22:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:20:26 +0000"
@@ -6880,6 +6886,12 @@
   "obs:phases/phase_4": {
     "criteria": {
       "requirement": "2024-12-22 01:48:05 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_5": {
+    "criteria": {
+      "requirement": "2024-12-22 02:22:48 +0000"
     },
     "done": true
   },

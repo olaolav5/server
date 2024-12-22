@@ -7763,6 +7763,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-22 02:26:12 +0000"
+    },
+    "done": true
+  },
   "obs:ob/coal": {
     "criteria": {
       "requirement": "2024-12-22 01:51:38 +0000"
@@ -7793,6 +7799,12 @@
     },
     "done": true
   },
+  "obs:ob/iron": {
+    "criteria": {
+      "requirement": "2024-12-22 02:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-22 01:28:06 +0000"
@@ -7814,6 +7826,12 @@
   "obs:phases/phase_4": {
     "criteria": {
       "requirement": "2024-12-22 01:48:05 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_5": {
+    "criteria": {
+      "requirement": "2024-12-22 02:22:48 +0000"
     },
     "done": true
   },
