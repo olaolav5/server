@@ -7829,6 +7829,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-22 02:02:33 +0000",
+      "minecraft:zombie": "2024-12-22 02:00:01 +0000"
+    },
+    "done": false
+  },
   "obs:ob/coal": {
     "criteria": {
       "requirement": "2024-12-22 01:48:19 +0000"
@@ -7850,6 +7857,12 @@
   "obs:ob/iron": {
     "criteria": {
       "requirement": "2024-12-22 01:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-22 02:00:01 +0000"
     },
     "done": true
   },
