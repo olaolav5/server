@@ -1103,6 +1103,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-22 01:31:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:19:11 +0000"
@@ -5189,6 +5195,12 @@
     },
     "done": true
   },
+  "obs:ob/sapling": {
+    "criteria": {
+      "requirement": "2024-12-22 01:31:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:19:11 +0000"
@@ -5384,6 +5396,12 @@
   "minecraft:recipes/building_blocks/cut_copper_slab": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:19:11 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/cobblemania": {
+    "criteria": {
+      "requirement": "2024-12-22 01:31:05 +0000"
     },
     "done": true
   },
@@ -6788,6 +6806,12 @@
   "obs:phases/phase_2": {
     "criteria": {
       "requirement": "2024-12-22 01:27:17 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_3": {
+    "criteria": {
+      "requirement": "2024-12-22 01:30:44 +0000"
     },
     "done": true
   },
