@@ -3671,6 +3671,12 @@
     },
     "done": true
   },
+  "obs:ob/plant": {
+    "criteria": {
+      "requirement": "2024-12-22 01:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:19:11 +0000"
@@ -6815,6 +6821,12 @@
     },
     "done": true
   },
+  "obs:phases/phase_4": {
+    "criteria": {
+      "requirement": "2024-12-22 01:48:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:19:11 +0000"
@@ -7529,6 +7541,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-22 01:42:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:19:11 +0000"
@@ -7538,6 +7556,12 @@
   "minecraft:recipes/misc/raiser_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:19:11 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_2": {
+    "criteria": {
+      "requirement": "2024-12-22 01:40:57 +0000"
     },
     "done": true
   },

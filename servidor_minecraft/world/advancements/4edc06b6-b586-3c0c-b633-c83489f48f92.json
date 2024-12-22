@@ -7805,6 +7805,18 @@
     },
     "done": true
   },
+  "obs:phases/phase_4": {
+    "criteria": {
+      "requirement": "2024-12-22 01:48:05 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_2": {
+    "criteria": {
+      "requirement": "2024-12-22 01:44:54 +0000"
+    },
+    "done": true
+  },
   "obs:phases/dirt_1": {
     "criteria": {
       "requirement": "2024-12-22 01:25:29 +0000"

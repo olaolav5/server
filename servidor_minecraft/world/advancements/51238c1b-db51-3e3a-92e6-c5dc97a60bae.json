@@ -6833,6 +6833,12 @@
     },
     "done": true
   },
+  "obs:phases/phase_4": {
+    "criteria": {
+      "requirement": "2024-12-22 01:48:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:20:26 +0000"
@@ -7580,6 +7586,12 @@
   "obs:phases/dirt_1": {
     "criteria": {
       "requirement": "2024-12-22 01:25:18 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_3": {
+    "criteria": {
+      "requirement": "2024-12-22 01:41:40 +0000"
     },
     "done": true
   },
