@@ -7817,6 +7817,18 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-22 01:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-22 01:57:46 +0000"
+    },
+    "done": true
+  },
   "obs:ob/coal": {
     "criteria": {
       "requirement": "2024-12-22 01:48:19 +0000"
@@ -7832,6 +7844,12 @@
   "obs:ob/furnace": {
     "criteria": {
       "requirement": "2024-12-22 01:42:46 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/iron": {
+    "criteria": {
+      "requirement": "2024-12-22 01:57:46 +0000"
     },
     "done": true
   },

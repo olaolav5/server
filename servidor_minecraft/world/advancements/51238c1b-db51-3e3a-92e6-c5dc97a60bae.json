@@ -2405,6 +2405,12 @@
     },
     "done": true
   },
+  "obs:ob/coal": {
+    "criteria": {
+      "requirement": "2024-12-22 01:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:20:26 +0000"
@@ -7586,6 +7592,12 @@
   "obs:phases/dirt_1": {
     "criteria": {
       "requirement": "2024-12-22 01:25:18 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_4": {
+    "criteria": {
+      "requirement": "2024-12-22 01:54:09 +0000"
     },
     "done": true
   },

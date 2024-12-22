@@ -7763,6 +7763,12 @@
     },
     "done": true
   },
+  "obs:ob/coal": {
+    "criteria": {
+      "requirement": "2024-12-22 01:51:38 +0000"
+    },
+    "done": true
+  },
   "obs:ob/plant": {
     "criteria": {
       "requirement": "2024-12-22 01:29:46 +0000"
