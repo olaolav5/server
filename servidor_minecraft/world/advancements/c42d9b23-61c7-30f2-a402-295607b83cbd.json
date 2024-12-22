@@ -7769,5 +7769,23 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-22 01:24:38 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_2": {
+    "criteria": {
+      "requirement": "2024-12-22 01:27:17 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_2": {
+    "criteria": {
+      "requirement": "2024-12-22 01:25:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
