@@ -1531,3 +1531,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Dec2024 02:30:36.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepesaurio4000 was kicked for floating too long!
 [23Dec2024 02:30:36.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepesaurio4000 lost connection: Flying is not enabled on this server
 [23Dec2024 02:30:36.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepesaurio4000 left the game
+[23Dec2024 02:31:38.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavZerok lost connection: Disconnected
+[23Dec2024 02:31:38.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavZerok left the game
