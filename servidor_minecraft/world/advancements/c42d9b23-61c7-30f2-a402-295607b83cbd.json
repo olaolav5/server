@@ -1,424 +1,322 @@
 {
-  "minecraft:recipes/redstone/lever": {
+  "terramity:terramity_parent_advancement": {
     "criteria": {
-      "has_cobblestone": "2024-12-22 03:09:41 +0000"
+      "terramity_parent_advancement_0": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
+  "iceandfire:iceandfire/root": {
     "criteria": {
-      "has_stick": "2024-12-22 03:10:21 +0000"
+      "tick": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
+  "takesapillage:root": {
     "criteria": {
-      "in_water": "2024-12-22 03:06:15 +0000"
+      "always": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+  "incendium:technical/scroll_of_returning": {
     "criteria": {
-      "has_raw_copper": "2024-12-22 03:11:05 +0000"
+      "log_spam_fixer": "2024-12-22 04:02:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:unlock_deep_pockets_book": {
+    "criteria": {
+      "exists": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_flint": "2024-12-22 03:16:18 +0000"
+      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
+    },
+    "done": false
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
+  "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "has_porkchop": "2024-12-22 03:07:39 +0000"
+      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
+    },
+    "done": false
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
+  "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "has_raw_copper": "2024-12-22 03:11:05 +0000"
+      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:02:10 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+  "stellarity:story/drop_rare_illager_loot": {
     "criteria": {
-      "has_diorite": "2024-12-22 03:11:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2024-12-22 03:09:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2024-12-22 03:09:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-22 03:09:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_leggings": "2024-12-22 03:16:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2024-12-22 03:11:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-22 03:09:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2024-12-22 03:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2024-12-22 03:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2024-12-22 03:06:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2024-12-22 03:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2024-12-22 03:11:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-22 03:11:11 +0000"
+      "drop3": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
   "minecraft:story/mine_stone": {
     "criteria": {
-      "get_stone": "2024-12-22 03:09:41 +0000"
+      "get_stone": "2024-12-22 04:04:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/furnace": {
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
-      "has_cobblestone": "2024-12-22 03:09:41 +0000"
+      "has_the_recipe": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
+  "stellarity:cursed_tome/spellbooks/conveyance": {
     "criteria": {
-      "has_stick": "2024-12-22 03:10:21 +0000"
+      "requirement": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
+  "the_bumblezone:root": {
     "criteria": {
-      "has_ender_eye": "2024-12-22 03:13:41 +0000"
+      "instant_granted": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "naturescompass:natures_compass_log": {
     "criteria": {
-      "has_gold_nugget": "2024-12-22 03:16:21 +0000"
+      "has_recipe": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
+  "incendium:technical/feed_ghastling": {
     "criteria": {
-      "has_stick": "2024-12-22 03:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2024-12-22 03:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_leggings": "2024-12-22 03:16:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2024-12-22 03:11:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-12-22 03:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2024-12-22 03:05:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-22 03:12:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2024-12-22 03:12:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2024-12-22 03:14:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2024-12-22 03:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-22 03:16:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2024-12-22 03:09:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-12-22 03:09:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 03:06:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2024-12-22 03:06:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-12-22 03:09:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2024-12-22 03:13:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2024-12-22 03:07:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2024-12-22 03:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2024-12-22 03:07:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-22 03:11:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2024-12-22 03:11:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2024-12-22 03:09:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:beach": "2024-12-22 03:16:13 +0000",
-      "minecraft:forest": "2024-12-22 03:05:34 +0000",
-      "minecraft:river": "2024-12-22 03:15:25 +0000",
-      "minecraft:swamp": "2024-12-22 03:06:01 +0000",
-      "minecraft:windswept_gravelly_hills": "2024-12-22 03:13:01 +0000",
-      "minecraft:windswept_hills": "2024-12-22 03:08:24 +0000",
-      "minecraft:dripstone_caves": "2024-12-22 03:13:24 +0000",
-      "minecraft:plains": "2024-12-22 03:13:33 +0000"
+      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/transportation/bamboo_raft": {
+  "incendium:technical/on_inventory_change": {
     "criteria": {
-      "in_water": "2024-12-22 03:06:15 +0000"
+      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
+    },
+    "done": false
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+  "stellarity:cursed_tome/root": {
     "criteria": {
-      "has_cobblestone": "2024-12-22 03:09:41 +0000"
+      "requirement": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+  "the_bumblezone:wiki": {
     "criteria": {
-      "has_cobblestone": "2024-12-22 03:09:41 +0000"
+      "instant_granted": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+  "incendium:technical/on_player_hurt": {
     "criteria": {
-      "has_diorite": "2024-12-22 03:11:11 +0000"
+      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
+    },
+    "done": false
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "stellarity:cursed_tome/spellbooks/updraft": {
     "criteria": {
-      "in_water": "2024-12-22 03:06:15 +0000"
+      "requirement": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+  "naturescompass:natures_compass_sapling": {
     "criteria": {
-      "has_cobblestone": "2024-12-22 03:09:41 +0000"
+      "has_recipe": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+  "stellarity:cursed_tome/spellbooks/light": {
     "criteria": {
-      "has_diorite": "2024-12-22 03:11:11 +0000"
+      "requirement": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "incendium:technical/using/trailblazer": {
     "criteria": {
-      "in_water": "2024-12-22 03:06:15 +0000"
+      "log_spam_fixer": "2024-12-22 04:02:10 +0000"
+    },
+    "done": false
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
+    "criteria": {
+      "requirement": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "tombstone:adventure/christmas": {
     "criteria": {
-      "has_obsidian": "2024-12-22 03:16:18 +0000"
+      "coded_trigger": "2024-12-22 04:02:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
+  "mowziesmobs:root": {
     "criteria": {
-      "has_cobblestone": "2024-12-22 03:09:41 +0000"
+      "custom_test_name": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ender_chest": {
+  "betterdungeons:root": {
     "criteria": {
-      "has_ender_eye": "2024-12-22 03:13:41 +0000"
+      "always": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "stellarity:cursed_tome/spellbooks/natures_wrath": {
     "criteria": {
-      "in_water": "2024-12-22 03:06:15 +0000"
+      "requirement": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
+  "lootr:root": {
     "criteria": {
-      "has_reeds": "2024-12-22 03:06:24 +0000"
+      "always_true": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+  "incendium:technical/firestorm": {
     "criteria": {
-      "has_diorite": "2024-12-22 03:11:11 +0000"
+      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2024-12-22 04:03:32 +0000",
+      "minecraft:dark_forest": "2024-12-22 04:02:10 +0000"
+    },
+    "done": false
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
+    "criteria": {
+      "requirement": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
+  "incendium:technical/holy_wrath": {
     "criteria": {
-      "has_coal": "2024-12-22 03:11:54 +0000"
+      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
+    },
+    "done": false
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
+  "eeeabsmobs:eeeabsmobs/root": {
     "criteria": {
-      "has_cobblestone": "2024-12-22 03:09:41 +0000"
+      "requirement": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
+  "incendium:technical/using/shield": {
     "criteria": {
-      "has_diorite": "2024-12-22 03:11:11 +0000"
+      "log_spam_fixer": "2024-12-22 04:02:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
+    },
+    "done": false
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "tombstone:adventure/root": {
     "criteria": {
-      "has_raw_copper": "2024-12-22 03:11:05 +0000"
+      "auto": "2024-12-22 04:02:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "cataclysm:root": {
     "criteria": {
-      "in_water": "2024-12-22 03:06:15 +0000"
+      "custom_test_name": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
     "criteria": {
-      "in_water": "2024-12-22 03:06:15 +0000"
+      "requirement": "2024-12-22 04:02:08 +0000"
     },
     "done": true
   },
-  "DataVersion": 3953
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-12-22 04:02:10 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-12-22 04:02:08 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2024-12-22 04:02:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
 }
