@@ -1064,3 +1064,136 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Dec2024 01:48:39.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepesaurio4000 has made the advancement [Terramity]
 [23Dec2024 01:48:39.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepesaurio4000 has made the advancement [Rare Find]
 [23Dec2024 01:48:44.151] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: elpepesaurio4000 -> Global
+[23Dec2024 01:49:15.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=71, z=96} BlockPos{x=6, y=77, z=76}
+[23Dec2024 01:49:15.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=71, z=96} BlockPos{x=6, y=77, z=76}
+[23Dec2024 01:49:22.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=71, z=96} BlockPos{x=13, y=74, z=77}
+[23Dec2024 01:49:22.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=71, z=96} BlockPos{x=14, y=74, z=78}
+[23Dec2024 01:49:24.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=71, z=96} BlockPos{x=14, y=76, z=80}
+[23Dec2024 01:49:30.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=71, z=96} BlockPos{x=12, y=72, z=81}
+[23Dec2024 01:49:31.685] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=71, z=96} BlockPos{x=12, y=75, z=75}
+[23Dec2024 01:49:31.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=71, z=96} BlockPos{x=12, y=74, z=75}
+[23Dec2024 01:49:36.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=71, z=96} BlockPos{x=14, y=74, z=84}
+[23Dec2024 01:49:37.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=71, z=96} BlockPos{x=13, y=74, z=84}
+[23Dec2024 01:49:57.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavZerok lost connection: Disconnected
+[23Dec2024 01:49:57.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavZerok left the game
+[23Dec2024 01:50:02.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavZerok[/127.160.179.77:41227] logged in with entity id 3286 at (11.90404436927874, 73.0, 83.58917010784155)
+[23Dec2024 01:50:02.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavZerok joined the game
+[23Dec2024 01:50:02.416] [Server thread/INFO] [Jade/]: Syncing config to DavZerok (47f289ce-7df7-3037-8ecf-80a056f9f854)
+[23Dec2024 01:50:02.728] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: DavZerok -> Global
+[23Dec2024 01:50:16.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepesaurio4000 lost connection: Disconnected
+[23Dec2024 01:50:16.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepesaurio4000 left the game
+[23Dec2024 01:50:22.664] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepesaurio4000[/127.149.217.130:54045] logged in with entity id 3345 at (11.300000011920929, 73.0, 82.55296705116791)
+[23Dec2024 01:50:22.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepesaurio4000 joined the game
+[23Dec2024 01:50:22.825] [Server thread/INFO] [Jade/]: Syncing config to elpepesaurio4000 (f0a11de0-8c03-35c1-bb1e-c0e42968910b)
+[23Dec2024 01:50:23.327] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: elpepesaurio4000 -> Global
+[23Dec2024 01:50:43.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=80, z=92}
+[23Dec2024 01:50:43.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=79, z=93}
+[23Dec2024 01:50:43.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=80, z=93}
+[23Dec2024 01:50:43.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=81, z=93}
+[23Dec2024 01:50:43.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=81, z=94}
+[23Dec2024 01:50:51.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=79, z=94}
+[23Dec2024 01:50:51.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=79, z=93}
+[23Dec2024 01:50:59.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=77, z=93}
+[23Dec2024 01:50:59.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=76, z=74}
+[23Dec2024 01:50:59.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=77, z=74}
+[23Dec2024 01:51:02.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=75, z=74}
+[23Dec2024 01:51:08.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=79, z=91}
+[23Dec2024 01:51:11.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=79, z=90}
+[23Dec2024 01:51:11.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=79, z=91}
+[23Dec2024 01:51:22.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=77, z=92}
+[23Dec2024 01:51:49.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=73, z=92}
+[23Dec2024 01:51:52.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=74, z=92}
+[23Dec2024 01:51:52.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=73, z=92}
+[23Dec2024 01:51:53.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=74, z=93}
+[23Dec2024 01:52:05.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: javipro[/127.15.80.211:58069] logged in with entity id 3701 at (8.5, 80.0, 88.5)
+[23Dec2024 01:52:05.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro joined the game
+[23Dec2024 01:52:05.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro has made the advancement [Christmas]
+[23Dec2024 01:52:05.118] [Server thread/INFO] [Jade/]: Syncing config to javipro (7ddfad0f-f96d-32e7-8b94-77c9ed712137)
+[23Dec2024 01:52:05.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro has made the advancement [Ice and Fire]
+[23Dec2024 01:52:05.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro has made the advancement [Terramity]
+[23Dec2024 01:52:05.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro has made the advancement [Rare Find]
+[23Dec2024 01:52:07.883] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: javipro -> Global
+[23Dec2024 01:52:10.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=74, z=93}
+[23Dec2024 01:52:14.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=72, z=93}
+[23Dec2024 01:52:14.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=72, z=93}
+[23Dec2024 01:52:16.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=74, z=93}
+[23Dec2024 01:52:16.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=74, z=93}
+[23Dec2024 01:52:17.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=74, z=93}
+[23Dec2024 01:52:19.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=74, z=92}
+[23Dec2024 01:52:19.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=74, z=92}
+[23Dec2024 01:53:50.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro has made the advancement [Stone Age]
+[23Dec2024 01:54:24.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepesaurio4000 was slain by javipro
+[23Dec2024 01:54:24.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepesaurio4000 has made the advancement [Your First Grave]
+[23Dec2024 01:54:25.064] [Server thread/INFO] [tombstone/]: The player elpepesaurio4000 has successfully been saved
+[23Dec2024 01:54:26.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepesaurio4000 has made the advancement [The Most Useful Key]
+[23Dec2024 01:54:30.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavZerok has made the advancement [A Strange Grave Dust]
+[23Dec2024 01:54:44.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavZerok has made the advancement [Stone Age]
+[23Dec2024 01:55:09.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavZerok has made the advancement [Getting an Upgrade]
+[23Dec2024 01:55:14.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepesaurio4000 was slain by javipro
+[23Dec2024 01:55:14.723] [Server thread/INFO] [tombstone/]: The player elpepesaurio4000 has successfully been saved
+[23Dec2024 01:55:18.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavZerok was slain by javipro
+[23Dec2024 01:55:18.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavZerok has made the advancement [Your First Grave]
+[23Dec2024 01:55:18.414] [Server thread/INFO] [tombstone/]: The player DavZerok has successfully been saved
+[23Dec2024 01:55:19.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavZerok has made the advancement [The Most Useful Key]
+[23Dec2024 01:55:20.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepesaurio4000 has made the advancement [Knowledge of Death]
+[23Dec2024 01:55:20.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepesaurio4000 has reached the goal [A Fast Comeback]
+[23Dec2024 01:55:39.705] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Dec2024 01:55:39.706] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[23Dec2024 01:55:39.706] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 7 stick
+[23Dec2024 01:55:39.706] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Dec2024 01:55:39.707] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[23Dec2024 01:55:39.953] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Dec2024 01:55:39.953] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[23Dec2024 01:55:39.954] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 7 stick
+[23Dec2024 01:55:39.954] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Dec2024 01:55:39.954] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[23Dec2024 01:55:40.507] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Dec2024 01:55:40.507] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[23Dec2024 01:55:40.507] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Dec2024 01:55:40.508] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Dec2024 01:55:40.508] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 5
+[23Dec2024 01:55:41.057] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Dec2024 01:55:41.058] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[23Dec2024 01:55:41.058] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Dec2024 01:55:41.058] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Dec2024 01:55:41.058] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 5
+[23Dec2024 01:55:41.305] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Dec2024 01:55:41.306] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[23Dec2024 01:55:41.306] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Dec2024 01:55:41.306] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Dec2024 01:55:41.306] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 5
+[23Dec2024 01:56:26.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepesaurio4000 was slain by javipro
+[23Dec2024 01:56:26.148] [Server thread/INFO] [tombstone/]: The player elpepesaurio4000 has successfully been saved
+[23Dec2024 01:56:41.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro has made the advancement [Getting an Upgrade]
+[23Dec2024 01:57:21.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavZerok was doomed to fall by Slugger
+[23Dec2024 01:57:21.044] [Server thread/INFO] [tombstone/]: The player DavZerok has successfully been saved
+[23Dec2024 01:57:26.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alrio2112[/127.18.0.67:56205] logged in with entity id 5076 at (-14.6597223073839, 53.0, 120.50837526499683)
+[23Dec2024 01:57:26.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alrio2112 joined the game
+[23Dec2024 01:57:26.188] [Server thread/INFO] [Jade/]: Syncing config to alrio2112 (c42d9b23-61c7-30f2-a402-295607b83cbd)
+[23Dec2024 01:57:28.527] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: alrio2112 -> Global
+[23Dec2024 01:57:35.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavZerok was kicked for floating too long!
+[23Dec2024 01:57:35.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavZerok lost connection: Flying is not enabled on this server
+[23Dec2024 01:57:35.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavZerok left the game
+[23Dec2024 01:57:35.874] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Dec2024 01:57:43.649] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavZerok[/127.160.179.77:50795] logged in with entity id 5125 at (-14.677511622773062, 56.64132995094977, 120.61875960183713)
+[23Dec2024 01:57:43.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavZerok joined the game
+[23Dec2024 01:57:43.707] [Server thread/INFO] [Jade/]: Syncing config to DavZerok (47f289ce-7df7-3037-8ecf-80a056f9f854)
+[23Dec2024 01:57:43.923] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: DavZerok -> Global
+[23Dec2024 01:57:51.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepesaurio4000 was slain by javipro
+[23Dec2024 01:57:51.647] [Server thread/INFO] [tombstone/]: The player elpepesaurio4000 has successfully been saved
+[23Dec2024 01:58:35.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro has made the advancement [Monster Hunter]
+[23Dec2024 01:59:05.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro was slain by elpepesaurio4000
+[23Dec2024 01:59:05.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro has made the advancement [Your First Grave]
+[23Dec2024 01:59:05.957] [Server thread/INFO] [tombstone/]: The player javipro has successfully been saved
+[23Dec2024 01:59:07.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javipro has made the advancement [The Most Useful Key]
+[23Dec2024 01:59:33.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavZerok was slain by javipro
+[23Dec2024 01:59:33.400] [Server thread/INFO] [tombstone/]: The player DavZerok has successfully been saved
+[23Dec2024 02:00:10.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepesaurio4000 has made the advancement [Stone Age]
+[23Dec2024 02:00:40.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavZerok was slain by javipro
+[23Dec2024 02:00:40.805] [Server thread/INFO] [tombstone/]: The player DavZerok has successfully been saved
+[23Dec2024 02:00:44.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alrio2112 was slain by javipro
+[23Dec2024 02:00:44.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alrio2112 has made the advancement [Your First Grave]
+[23Dec2024 02:00:44.562] [Server thread/INFO] [tombstone/]: The player alrio2112 has successfully been saved
+[23Dec2024 02:00:45.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alrio2112 has made the advancement [The Most Useful Key]
+[23Dec2024 02:00:47.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavZerok has made the advancement [Knowledge of Death]
+[23Dec2024 02:00:47.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavZerok has reached the goal [A Fast Comeback]

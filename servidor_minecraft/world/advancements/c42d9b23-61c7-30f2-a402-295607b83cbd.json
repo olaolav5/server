@@ -1,4 +1,10 @@
 {
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-22 04:02:07 +0000"
+    },
+    "done": true
+  },
   "terramity:terramity_parent_advancement": {
     "criteria": {
       "terramity_parent_advancement_0": "2024-12-22 04:02:08 +0000"
@@ -17,23 +23,11 @@
     },
     "done": true
   },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-22 04:02:10 +0000"
-    },
-    "done": false
-  },
   "minecraft:unlock_deep_pockets_book": {
     "criteria": {
       "exists": "2024-12-22 04:02:08 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
-    },
-    "done": false
   },
   "stellarity:dragons_den/cursed_tome/root": {
     "criteria": {
@@ -41,29 +35,11 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
-    },
-    "done": false
-  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2024-12-22 04:02:08 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-22 04:02:10 +0000"
-    },
-    "done": false
   },
   "dungeons_arise:wda_root": {
     "criteria": {
@@ -74,12 +50,6 @@
   "stellarity:story/drop_rare_illager_loot": {
     "criteria": {
       "drop3": "2024-12-22 04:02:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-12-22 04:04:54 +0000"
     },
     "done": true
   },
@@ -107,18 +77,6 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
-    },
-    "done": false
-  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2024-12-22 04:02:08 +0000"
@@ -136,12 +94,6 @@
       "instant_granted": "2024-12-22 04:02:08 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
-    },
-    "done": false
   },
   "naturescompass:natures_compass": {
     "criteria": {
@@ -167,21 +119,9 @@
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-22 04:02:10 +0000"
-    },
-    "done": false
-  },
   "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
     "criteria": {
       "requirement": "2024-12-22 04:02:08 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/christmas": {
-    "criteria": {
-      "coded_trigger": "2024-12-22 04:02:07 +0000"
     },
     "done": true
   },
@@ -209,36 +149,11 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:birch_forest": "2024-12-22 04:03:32 +0000",
-      "minecraft:dark_forest": "2024-12-22 04:02:10 +0000"
-    },
-    "done": false
-  },
   "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
     "criteria": {
       "requirement": "2024-12-22 04:02:08 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
-    },
-    "done": false
   },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
@@ -252,27 +167,9 @@
     },
     "done": true
   },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-22 04:02:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
-    },
-    "done": false
-  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2024-12-22 04:02:08 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2024-12-22 04:02:10 +0000"
     },
     "done": true
   },
@@ -288,12 +185,6 @@
     },
     "done": true
   },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2024-12-22 04:02:10 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2024-12-22 04:02:08 +0000"
@@ -306,17 +197,67 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "incendium:technical/scroll_of_returning": {
     "criteria": {
-      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
+      "log_spam_fixer": "2024-12-22 04:02:10 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "incendium:technical/using/ragnarok": {
     "criteria": {
-      "log_spam_fixer": "2024-12-22 04:12:22 +0000"
+      "log_spam_fixer": "2024-12-22 04:02:10 +0000"
     },
     "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:02:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2024-12-22 04:03:32 +0000",
+      "minecraft:dark_forest": "2024-12-22 04:02:10 +0000",
+      "minecraft:stony_shore": "2024-12-23 01:59:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-22 04:02:10 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-12-22 04:02:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-12-22 04:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-22 04:04:54 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2024-12-23 02:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-23 02:00:30 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
