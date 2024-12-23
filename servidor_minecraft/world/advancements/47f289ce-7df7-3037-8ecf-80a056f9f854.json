@@ -220,7 +220,8 @@
     "criteria": {
       "minecraft:birch_forest": "2024-12-23 01:45:48 +0000",
       "minecraft:dark_forest": "2024-12-23 01:41:05 +0000",
-      "minecraft:stony_shore": "2024-12-23 01:54:42 +0000"
+      "minecraft:stony_shore": "2024-12-23 01:54:42 +0000",
+      "minecraft:ocean": "2024-12-23 02:03:52 +0000"
     },
     "done": false
   },
@@ -311,6 +312,24 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2024-12-23 01:55:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 02:00:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 02:00:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 02:00:50 +0000"
     },
     "done": true
   },
