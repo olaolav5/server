@@ -217,10 +217,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-23 02:16:31 +0000",
       "minecraft:birch_forest": "2024-12-22 04:03:32 +0000",
       "minecraft:dark_forest": "2024-12-22 04:02:10 +0000",
       "minecraft:stony_shore": "2024-12-23 01:59:05 +0000",
-      "minecraft:lush_caves": "2024-12-23 02:07:51 +0000"
+      "minecraft:dripstone_caves": "2024-12-23 02:14:10 +0000",
+      "minecraft:lush_caves": "2024-12-23 02:07:51 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-23 02:16:55 +0000",
+      "minecraft:deep_dark": "2024-12-23 02:10:48 +0000",
+      "minecraft:meadow": "2024-12-23 02:13:36 +0000"
     },
     "done": false
   },
@@ -245,6 +250,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-22 04:04:54 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-23 02:10:48 +0000"
     },
     "done": true
   },
@@ -311,6 +322,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-23 02:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-23 02:11:31 +0000"
     },
     "done": true
   },

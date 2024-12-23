@@ -221,7 +221,9 @@
       "minecraft:birch_forest": "2024-12-23 01:45:48 +0000",
       "minecraft:dark_forest": "2024-12-23 01:41:05 +0000",
       "minecraft:stony_shore": "2024-12-23 01:54:42 +0000",
-      "minecraft:ocean": "2024-12-23 02:03:52 +0000"
+      "minecraft:lush_caves": "2024-12-23 02:16:27 +0000",
+      "minecraft:ocean": "2024-12-23 02:03:52 +0000",
+      "minecraft:meadow": "2024-12-23 02:20:35 +0000"
     },
     "done": false
   },
@@ -315,9 +317,34 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-23 02:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-23 02:11:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-23 02:19:02 +0000",
+      "minecraft:zombie": "2024-12-23 02:19:32 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-12-23 02:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-23 02:19:02 +0000"
     },
     "done": true
   },
