@@ -2556,3 +2556,75 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jan2025 01:18:35.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna was slain by mario291
 [28Jan2025 01:18:49.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario291: Teleported mario291 to hivanna]
 [28Jan2025 01:18:57.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario291: Teleported mario291 to hivanna]
+[28Jan2025 01:19:05.134] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[28Jan2025 01:19:05.134] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:19:05.134] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[28Jan2025 01:19:30.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 01:19:30.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 01:19:31.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario291: Set own game mode to Survival Mode]
+[28Jan2025 01:19:35.184] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[28Jan2025 01:19:35.184] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:19:35.184] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[28Jan2025 01:19:42.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario291 has made the advancement [The World of Cobblemon!]
+[28Jan2025 01:20:05.234] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jan2025 01:20:05.234] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:20:05.235] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jan2025 01:20:35.284] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[28Jan2025 01:20:35.284] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:20:35.284] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[28Jan2025 01:20:54.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario291: Set the time to 1000]
+[28Jan2025 01:21:05.334] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jan2025 01:21:05.334] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:21:05.335] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jan2025 01:21:35.384] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[28Jan2025 01:21:35.384] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:21:35.385] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[28Jan2025 01:22:05.434] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[28Jan2025 01:22:05.434] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:22:05.436] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[28Jan2025 01:22:35.484] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jan2025 01:22:35.484] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:22:35.485] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jan2025 01:23:05.534] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[28Jan2025 01:23:05.534] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:23:05.536] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[28Jan2025 01:23:12.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna has made the advancement [Where's my Victory Music?]
+[28Jan2025 01:23:35.584] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[28Jan2025 01:23:35.584] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:23:35.586] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[28Jan2025 01:24:05.634] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[28Jan2025 01:24:05.634] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:24:05.635] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[28Jan2025 01:24:30.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 01:24:30.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 01:24:35.684] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[28Jan2025 01:24:35.685] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:24:35.686] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[28Jan2025 01:25:05.734] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[28Jan2025 01:25:05.734] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:25:05.736] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[28Jan2025 01:25:35.784] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[28Jan2025 01:25:35.784] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:25:35.786] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[28Jan2025 01:26:05.834] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[28Jan2025 01:26:05.834] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:26:05.836] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[28Jan2025 01:26:35.884] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[28Jan2025 01:26:35.884] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:26:35.886] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[28Jan2025 01:27:05.934] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[28Jan2025 01:27:05.934] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:27:05.936] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[28Jan2025 01:27:35.984] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jan2025 01:27:35.984] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:27:35.985] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jan2025 01:28:06.034] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jan2025 01:28:06.034] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:28:06.035] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jan2025 01:28:36.084] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[28Jan2025 01:28:36.084] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[28Jan2025 01:28:36.085] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[28Jan2025 01:28:37.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna has made the advancement [Mother Nature's Bounty]
+[28Jan2025 01:28:37.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna has made the advancement [Is it a Fruit or is it a Nut?]
+[28Jan2025 01:28:40.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario291 has made the advancement [Mother Nature's Bounty]
+[28Jan2025 01:28:40.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario291 has made the advancement [Is it a Fruit or is it a Nut?]

@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "cobblemon:first_battle_victory": {
+    "criteria": {
+      "win": "2025-01-28 01:23:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-28 00:51:09 +0000"

@@ -960,3 +960,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jan2025 01:18:35.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna was slain by mario291
 [28Jan2025 01:18:49.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario291: Teleported mario291 to hivanna]
 [28Jan2025 01:18:57.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario291: Teleported mario291 to hivanna]
+[28Jan2025 01:19:31.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario291: Set own game mode to Survival Mode]
+[28Jan2025 01:19:42.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario291 has made the advancement [The World of Cobblemon!]
+[28Jan2025 01:20:54.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario291: Set the time to 1000]
+[28Jan2025 01:23:12.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna has made the advancement [Where's my Victory Music?]
+[28Jan2025 01:28:37.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna has made the advancement [Mother Nature's Bounty]
+[28Jan2025 01:28:37.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna has made the advancement [Is it a Fruit or is it a Nut?]
+[28Jan2025 01:28:40.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario291 has made the advancement [Mother Nature's Bounty]
+[28Jan2025 01:28:40.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario291 has made the advancement [Is it a Fruit or is it a Nut?]
