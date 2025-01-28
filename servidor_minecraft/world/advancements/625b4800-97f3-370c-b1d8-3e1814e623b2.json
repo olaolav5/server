@@ -74,6 +74,12 @@
     },
     "done": true
   },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2025-01-28 00:46:39 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/transportation/apricorn_boat": {
     "criteria": {
       "in_water": "2025-01-28 00:46:45 +0000"
@@ -122,12 +128,6 @@
     },
     "done": true
   },
-  "cobblemon:healing_machine": {
-    "criteria": {
-      "use_healing_machine": "2025-01-28 00:46:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-01-28 00:46:45 +0000"
@@ -137,6 +137,48 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-01-28 00:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-28 00:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-01-28 00:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-28 00:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-28 00:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-01-28 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-28 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/stripped_apricorn_wood": {
+    "criteria": {
+      "has_log": "2025-01-28 00:53:50 +0000"
     },
     "done": true
   },

@@ -814,3 +814,90 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jan2025 00:48:28.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario291 joined the game
 [28Jan2025 00:48:37.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hivanna[/127.228.68.66:37381] logged in with entity id 3314 at (-54.5, 81.0, -109.5)
 [28Jan2025 00:48:37.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna joined the game
+[28Jan2025 00:48:55.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> hivanna
+[28Jan2025 00:48:58.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> tasviva
+[28Jan2025 00:49:32.541] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=81, z=-110}
+[28Jan2025 00:49:33.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=81, z=-110}
+[28Jan2025 00:49:33.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=81, z=-110}
+[28Jan2025 00:49:33.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-55, y=80, z=-110}
+[28Jan2025 00:50:51.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> k inicial vas a elegir
+[28Jan2025 00:50:58.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna has made the advancement [The World of Cobblemon!]
+[28Jan2025 00:51:00.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> no puedo
+[28Jan2025 00:51:05.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> la cague
+[28Jan2025 00:51:12.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> lanze una pokebola
+[28Jan2025 00:51:17.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> y atrape a uno
+[28Jan2025 00:51:26.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> llamado
+[28Jan2025 00:51:31.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> vales kaka
+[28Jan2025 00:51:34.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> buneary
+[28Jan2025 00:51:52.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> como consifo pokebolas
+[28Jan2025 00:51:58.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> kiero a lopunny
+[28Jan2025 00:52:03.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> lno se
+[28Jan2025 00:52:12.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> estoy en creativo
+[28Jan2025 00:52:27.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> entoncd lomato
+[28Jan2025 00:52:32.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> matalo
+[28Jan2025 00:52:38.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> y te saco del server
+[28Jan2025 00:52:47.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> OE
+[28Jan2025 00:52:54.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> YA LO ENCOTRASTE
+[28Jan2025 00:54:05.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> te lo mato
+[28Jan2025 00:54:07.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> por manko
+[28Jan2025 00:54:08.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> AJJAJAA4
+[28Jan2025 00:54:14.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> OYE CON MI SNIVY
+[28Jan2025 00:54:16.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> NO
+[28Jan2025 00:54:23.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> recien te das cuenta
+[28Jan2025 00:54:28.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> q es un snivy
+[28Jan2025 00:54:39.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> no ve
+[28Jan2025 00:54:48.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> y ahora komo lo regreos
+[28Jan2025 00:54:51.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-60, y=71, z=-106}
+[28Jan2025 00:54:51.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-61, y=72, z=-107}
+[28Jan2025 00:54:56.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=71, z=-105}
+[28Jan2025 00:54:56.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=71, z=-106}
+[28Jan2025 00:54:56.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-61, y=71, z=-106}
+[28Jan2025 00:54:57.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-61, y=71, z=-106}
+[28Jan2025 00:54:57.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=72, z=-107}
+[28Jan2025 00:54:57.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=71, z=-106}
+[28Jan2025 00:55:00.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> no se
+[28Jan2025 00:55:19.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> espera
+[28Jan2025 00:55:25.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> creo q reiniciare server
+[28Jan2025 00:55:34.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> deja el escribo a alvario para ver si piedo
+[28Jan2025 00:55:47.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> y mi snivy s va morir
+[28Jan2025 00:56:01.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-63, y=72, z=-107}
+[28Jan2025 00:56:01.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-63, y=71, z=-106}
+[28Jan2025 00:56:01.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-63, y=71, z=-106}
+[28Jan2025 00:56:02.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=71, z=-106}
+[28Jan2025 00:56:02.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=71, z=-106}
+[28Jan2025 00:56:02.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=71, z=-106}
+[28Jan2025 00:56:03.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-61, y=71, z=-106}
+[28Jan2025 00:56:03.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=71, z=-106}
+[28Jan2025 00:56:04.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=72, z=-107}
+[28Jan2025 00:56:05.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-63, y=71, z=-106}
+[28Jan2025 00:56:05.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-61, y=72, z=-107}
+[28Jan2025 00:56:05.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-61, y=71, z=-106}
+[28Jan2025 00:56:06.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-63, y=71, z=-106}
+[28Jan2025 00:57:02.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> como ise eso
+[28Jan2025 00:57:06.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> oye yo t lo mate
+[28Jan2025 00:57:16.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> OYE
+[28Jan2025 00:57:23.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> YO NO FUI
+[28Jan2025 00:57:25.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> DEVUELVEME A MI IJO
+[28Jan2025 00:57:28.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-61, y=71, z=-105}
+[28Jan2025 00:57:28.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-61, y=71, z=-104}
+[28Jan2025 00:57:29.313] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-60, y=71, z=-104}
+[28Jan2025 00:57:29.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-60, y=71, z=-105}
+[28Jan2025 00:57:43.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> COMO ME SACO EL BUNEARY DEL EQUIPO
+[28Jan2025 00:57:45.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> t e xtrañaremos roberto
+[28Jan2025 00:57:47.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> PARA VOLVER A ELEJIR
+[28Jan2025 00:58:04.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=72, z=-104}
+[28Jan2025 00:58:05.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=72, z=-104}
+[28Jan2025 00:58:05.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=72, z=-104}
+[28Jan2025 00:58:05.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-61, y=71, z=-103}
+[28Jan2025 00:58:06.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=72, z=-104}
+[28Jan2025 00:58:06.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=72, z=-104}
+[28Jan2025 00:58:06.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=72, z=-104}
+[28Jan2025 00:58:08.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=71, z=-105}
+[28Jan2025 00:58:08.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=71, z=-105}
+[28Jan2025 00:58:08.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=72, z=-104}
+[28Jan2025 00:58:08.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=72, z=-104}
+[28Jan2025 00:58:09.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-63, y=71, z=-104}
+[28Jan2025 00:58:09.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=72, z=-104}
+[28Jan2025 00:58:09.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=72, z=-104}
+[28Jan2025 00:58:09.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=72, z=-104}
+[28Jan2025 00:58:11.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=72, z=-104}
