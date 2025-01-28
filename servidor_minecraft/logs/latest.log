@@ -901,3 +901,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jan2025 00:58:09.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=72, z=-104}
 [28Jan2025 00:58:09.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=72, z=-104}
 [28Jan2025 00:58:11.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=69, z=-93} BlockPos{x=-62, y=72, z=-104}
+[28Jan2025 00:59:11.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> REGRESO MI IJO
+[28Jan2025 00:59:22.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> ola t exteañe
+[28Jan2025 00:59:39.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> quieres una pokebola
+[28Jan2025 00:59:48.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> si
+[28Jan2025 00:59:51.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> compra
+[28Jan2025 00:59:54.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna was slain by mario291
+[28Jan2025 01:00:04.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> coem kaka
+[28Jan2025 01:00:13.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> oe4
+[28Jan2025 01:00:17.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> y tu hijo
+[28Jan2025 01:00:21.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> presiona
+[28Jan2025 01:00:24.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> m
+[28Jan2025 01:00:27.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> y mira si te sale
+[28Jan2025 01:00:35.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> sissid
+[28Jan2025 01:00:52.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> perdon me tire un pedo
+[28Jan2025 01:00:57.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> lo siento si te mueres
+[28Jan2025 01:00:58.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> asi son
+[28Jan2025 01:01:08.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> t voi a denunsiar
+[28Jan2025 01:01:15.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> toma
+[28Jan2025 01:01:20.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna has made the advancement [The First of Many]
+[28Jan2025 01:01:27.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> bravo
+[28Jan2025 01:01:36.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> con la r tiras el pokemo
+[28Jan2025 01:02:37.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> never
+[28Jan2025 01:02:44.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> chupa vrg
+[28Jan2025 01:02:44.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> no kieor tu caca de conejo
+[28Jan2025 01:02:47.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mario291 lost connection: Disconnected
+[28Jan2025 01:02:47.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario291 left the game
+[28Jan2025 01:02:52.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> OYE
+[28Jan2025 01:03:39.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna was slain by Zombie
+[28Jan2025 01:04:06.637] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@412789ac[id=<null>,name=mario291,properties={},legacy=false] (/127.149.202.236:44043) lost connection: Disconnected
+[28Jan2025 01:04:58.438] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70311f48[id=<null>,name=mario291,properties={},legacy=false] (/127.149.202.236:48363) lost connection: Disconnected
+[28Jan2025 01:05:31.941] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14b08488[id=<null>,name=mario291,properties={},legacy=false] (/127.149.202.236:58987) lost connection: Disconnected
+[28Jan2025 01:05:41.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mario291[/127.149.202.236:46311] logged in with entity id 6140 at (-60.69312779857796, 71.0, -96.9540930892901)
+[28Jan2025 01:05:41.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario291 joined the game
+[28Jan2025 01:06:00.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario291: Teleported mario291 to hivanna]
+[28Jan2025 01:06:40.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> OYE
+[28Jan2025 01:06:48.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hivanna> ky
+[28Jan2025 01:06:58.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> ksy
+[28Jan2025 01:07:59.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-46, y=80, z=-118}
+[28Jan2025 01:07:59.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-45, y=80, z=-118}
+[28Jan2025 01:07:59.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-44, y=79, z=-118}
+[28Jan2025 01:07:59.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-44, y=79, z=-117}
+[28Jan2025 01:07:59.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-44, y=79, z=-116}
+[28Jan2025 01:07:59.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-43, y=79, z=-116}
+[28Jan2025 01:08:13.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-45, y=82, z=-119}
+[28Jan2025 01:08:14.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-45, y=82, z=-118}
+[28Jan2025 01:08:16.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-43, y=79, z=-118}
+[28Jan2025 01:08:22.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna was slain by Zombie

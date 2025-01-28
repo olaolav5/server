@@ -46,7 +46,8 @@
     "criteria": {
       "ancient_gigaton_ball": "2025-01-28 00:42:53 +0000",
       "ancient_leaden_ball": "2025-01-28 00:42:54 +0000",
-      "ancient_heavy_ball": "2025-01-28 00:38:08 +0000"
+      "ancient_heavy_ball": "2025-01-28 00:38:08 +0000",
+      "poke_ball": "2025-01-28 00:59:44 +0000"
     },
     "done": false
   },
@@ -139,6 +140,12 @@
       "in_water": "2025-01-28 00:46:45 +0000"
     },
     "done": true
+  },
+  "cobblemon:craft_base_balls": {
+    "criteria": {
+      "poke_ball": "2025-01-28 00:59:44 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
