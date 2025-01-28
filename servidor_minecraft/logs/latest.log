@@ -795,3 +795,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jan2025 00:32:02.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario291> J J J J J J
 [28Jan2025 00:38:08.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario291 has made the advancement [The First of Many]
 [28Jan2025 00:38:22.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario291 has made the advancement [A New Friend!]
+[28Jan2025 00:38:58.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario291: Set own game mode to Survival Mode]
+[28Jan2025 00:39:00.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario291 fell from a high place
+[28Jan2025 00:39:33.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario291: Set own game mode to Creative Mode]
+[28Jan2025 00:43:51.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mario291 lost connection: Disconnected
+[28Jan2025 00:43:51.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario291 left the game
+[28Jan2025 00:43:51.694] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 172a2898-6837-43da-afa7-e542eef5c264
+[28Jan2025 00:43:51.694] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 172a2898-6837-43da-afa7-e542eef5c264
+[28Jan2025 00:43:56.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mario291[/127.149.202.236:34263] logged in with entity id 2678 at (-70.29302981578915, 70.0, -85.13203015791933)
+[28Jan2025 00:43:56.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario291 joined the game
+[28Jan2025 00:46:39.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario291 has made the advancement [Healing Power]
+[28Jan2025 00:47:37.390] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: ec35f717-afb9-4ff8-9582-264e42979f79
+[28Jan2025 00:47:37.391] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: ec35f717-afb9-4ff8-9582-264e42979f79
+[28Jan2025 00:47:44.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mario291 lost connection: Disconnected
+[28Jan2025 00:47:44.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario291 left the game
+[28Jan2025 00:48:21.091] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@300c1d29[id=<null>,name=mario291,properties={},legacy=false] (/127.149.202.236:39681) lost connection: Disconnected
+[28Jan2025 00:48:28.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mario291[/127.149.202.236:58553] logged in with entity id 3290 at (-53.68392368484721, 71.0, -91.80158225948999)
+[28Jan2025 00:48:28.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario291 joined the game
+[28Jan2025 00:48:37.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hivanna[/127.228.68.66:37381] logged in with entity id 3314 at (-54.5, 81.0, -109.5)
+[28Jan2025 00:48:37.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna joined the game
