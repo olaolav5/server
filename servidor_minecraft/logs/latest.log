@@ -948,3 +948,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jan2025 01:08:14.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-45, y=82, z=-118}
 [28Jan2025 01:08:16.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-43, y=79, z=-118}
 [28Jan2025 01:08:22.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna was slain by Zombie
+[28Jan2025 01:09:38.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-58, y=79, z=-116}
+[28Jan2025 01:09:38.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-58, y=79, z=-117}
+[28Jan2025 01:09:49.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-59, y=79, z=-115}
+[28Jan2025 01:10:35.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna was slain by Zombie
+[28Jan2025 01:11:09.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna has made the advancement [Monster Hunter]
+[28Jan2025 01:12:40.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario291: Teleported mario291 to hivanna]
+[28Jan2025 01:14:32.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario291: Teleported mario291 to hivanna]
+[28Jan2025 01:17:17.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario291: Teleported mario291 to hivanna]
+[28Jan2025 01:18:03.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario291: Teleported mario291 to hivanna]
+[28Jan2025 01:18:35.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hivanna was slain by mario291
+[28Jan2025 01:18:49.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario291: Teleported mario291 to hivanna]
+[28Jan2025 01:18:57.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario291: Teleported mario291 to hivanna]

@@ -12,7 +12,8 @@
       "minecraft:beach": "2025-01-28 00:35:01 +0000",
       "minecraft:river": "2025-01-28 00:47:19 +0000",
       "minecraft:stony_shore": "2025-01-28 00:35:00 +0000",
-      "minecraft:forest": "2025-01-28 00:33:05 +0000"
+      "minecraft:forest": "2025-01-28 00:33:05 +0000",
+      "minecraft:ocean": "2025-01-28 01:10:56 +0000"
     },
     "done": false
   },
@@ -141,11 +142,23 @@
     },
     "done": true
   },
-  "cobblemon:craft_base_balls": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "poke_ball": "2025-01-28 00:59:44 +0000"
+      "has_log": "2025-01-28 00:53:50 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-28 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/stripped_apricorn_wood": {
+    "criteria": {
+      "has_log": "2025-01-28 00:53:50 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
@@ -171,21 +184,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
+  "cobblemon:craft_base_balls": {
     "criteria": {
-      "has_log": "2025-01-28 00:53:50 +0000"
+      "poke_ball": "2025-01-28 00:59:44 +0000"
     },
-    "done": true
+    "done": false
   },
-  "cobblemon:recipes/blocks/apricorn_hanging_sign": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "has_stripped_logs": "2025-01-28 00:53:50 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/blocks/stripped_apricorn_wood": {
-    "criteria": {
-      "has_log": "2025-01-28 00:53:50 +0000"
+      "has_enchanted_golden_apple": "2025-01-28 01:06:49 +0000"
     },
     "done": true
   },
